@@ -1,5 +1,3 @@
-em desenvolvimento
-
 # freeCodeCamp - Pré-visualizador de Markdown
 Esta é uma solução para o desafio do freeCodeCamp: [Build a Markdown Previewer](https://www.freecodecamp.org/portuguese/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer).
 
@@ -21,11 +19,11 @@ O código deve atender aos requisitos:
 
 ### A solução
 
-![Solução]()
+![Solução](https://github.com/samupapati/Pre-visualizador-de-Markdown/blob/master/page.png)
 
 ### Links
 
-[URL do site]()
+[Deploy](https://samupapati.github.io/Pre-visualizador-de-Markdown/)
 
 ### Feito com
 
