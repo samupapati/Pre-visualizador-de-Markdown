@@ -5,7 +5,7 @@ const ResultStyle = styled.div`
     margin-top: 16px;
     padding: 16px;
     word-wrap: break-word;
-    color: var(--cor3);
+    color: var(--cor2);
 
     img{
         width: 100%;
