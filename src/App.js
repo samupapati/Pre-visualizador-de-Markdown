@@ -25,7 +25,6 @@ const Header = styled.header`
 
     h1{
       font-size: 24px;
-      font-family: 'Rubik Glitch';
       margin: 0;
       line-height: 0;
     }
@@ -33,9 +32,8 @@ const Header = styled.header`
 `
 
 const Title = styled.h1`
-  color: var(--cor1);
+  color: var(--cor2);
   border: none;
-  font-family: 'Rubik Glitch';
 `
 
 const Buttons = styled.div`
@@ -58,7 +56,7 @@ const Button = styled.button`
 
   &:hover{
     background-color: gray;
-    color: var(--cor1);
+    color: var(--cor2)
   }
   &#close:hover{
     background-color: red;
@@ -84,7 +82,7 @@ const TabName = styled.button`
   height: 100%;
   border: none;
   background-color: var(--fundo-header);
-  color: var(--cor3);
+  color: var(--cor2);
   cursor: pointer;
 
   &.active{
